@@ -6,3 +6,7 @@ python3とstreamlitを使用し，以下のコマンドで実行可能．
 pip install streamlit
 streamlit run check_output.py
 ```
+
+以下は実行時のスクリーンショット．
+
+![alt text](image.png)
